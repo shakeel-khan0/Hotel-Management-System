@@ -1,5 +1,0 @@
-Name ::khan
-			Address ::asd
-Phone ::0
-			Email :: 
-
